@@ -30,7 +30,7 @@ export default function IndexFont() {
           fontFamily: "JollyLodger_400Regular",
         }}
       >
-        Triboon
+        Love Eventos
       </Text>
 
       <Text

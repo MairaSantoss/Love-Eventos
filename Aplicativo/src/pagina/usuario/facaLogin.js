@@ -10,7 +10,7 @@ export default function FacaLogin({navigation}) {
     <Text style={styles.texto}> 
       <Text style={{fontWeight:'bold'}}>
         Faça login, fique por
-        dentro das suas tribos
+        dentro das suas comunidade
         preferidas, </Text> receba
         notificações e muito mais,
         ou se torne um produtor e

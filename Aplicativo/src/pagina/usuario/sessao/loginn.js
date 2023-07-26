@@ -49,7 +49,7 @@ return (
             <Text style={styles.facaLogin}> 
             <Text style={{fontWeight:'bold'}}>
                 Faça login, fique por
-                dentro das suas tribos
+                dentro das suas comunidades
                 preferidas, </Text> receba
                 notificações e muito mais,
                 ou se torne um produtor e
@@ -86,7 +86,7 @@ return (
                     <Text style={styles.textoBotao}>Fazer Login</Text>
                 </Pressable>     
                 <Text style={styles.botaoTexto}>Esqueceu sua senha?</Text>  
-                <Text style={styles.convite}>Não faz parte de nenhuma tribo?</Text>  
+                <Text style={styles.convite}>Não faz parte de nenhuma comunidade?</Text>  
                 <Text onPress={() => navigation.navigate('Cadastro')} style={styles.botaoTexto}>Cadastre-se agora</Text>
             </View> 
         </ScrollView>

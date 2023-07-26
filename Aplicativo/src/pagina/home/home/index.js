@@ -34,7 +34,7 @@ return (
       <View style={{margin: 8}}>
       
         <ScrollView showsVerticalScrollIndicator={false}>            
-        <Text>colocar icone triboon, filtro de pesquisa imagem de indio</Text>
+        <Text>colocar icone, filtro de pesquisa imagem de indio</Text>
           <Pesquisar/>
           <CarrosselDestaque idUser={idUser} latitude={latitude} longitude={longitude}/>
           <CarrosselPerto idUser={idUser} latitude={latitude} longitude={longitude}/>
