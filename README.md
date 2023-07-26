@@ -19,5 +19,9 @@ Você pode clonar o projeto e usar npm install para as dependencias. Você deve 
 
 *Créditos* <br>
 ---
-Kaique Lima - UI/UX Design 
+UI/UX Design 
+Kaique Lima 
 kaiquebrsilva@gmail.com
+
+UI Design 
+MairaSantoss
