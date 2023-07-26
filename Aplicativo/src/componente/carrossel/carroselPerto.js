@@ -55,7 +55,7 @@ return (
 
   <View>
     <Text style={{fontWeight:'bold'}}>PERTO DE VOCÊ</Text>
-    <Text>Tupi guarani hulu huh uhuhu </Text>
+    <Text> Sem eventos </Text>
   </View>
   );
 }

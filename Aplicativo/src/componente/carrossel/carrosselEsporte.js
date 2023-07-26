@@ -50,7 +50,7 @@ return (
   </View>  :
   <View>
     <Text style={{fontWeight:'bold'}}>ESPORTES</Text>
-    <Text> Tupi guarani hulu huh uhuhu </Text>
+    <Text> Sem eventos </Text>
   </View>
   );
 }

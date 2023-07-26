@@ -91,8 +91,7 @@ const Alerta = (mensagem) =>{
 const [resultado, setResultado] = useState([]);
 function Cadastrar (nomeComercial,Instagram, Facebook, Site, num, local) { 
 let img = image;
-  console.log(image, "fvnhfdujvhnuhnggh", img );
-  if(selectedItems.length == 0) return;
+ // if(selectedItems.length == 0) return;
   if(idUser == 0) return;
   let data = {
   request: "createCommercial",
@@ -110,8 +109,12 @@ let img = image;
   categoria: selectedItems,
   local: local,
   foto: image}      
-  Api .post('/controll/commercial.php', data).then(response => response.data.erro ?  
-    Alerta("Conta comercial cadastrada.")  :  Alerta("Tivemos um problema para inserir os dados") ).then(() => navigation.navigate("Perfil")) 
+  Api .post('/controll/commercial.php', data).then(response => console.log(response));
+    
+    /*response.data.erro ?  
+    Alerta("Conta comercial cadastrada.")  :  Alerta("Tivemos um problema para inserir os dados") ) /*.then(() => navigation.navigate("Perfil"))*/;
+
+   
     } 
 
     const [selectedItems, setSelectedItems] = useState([]);

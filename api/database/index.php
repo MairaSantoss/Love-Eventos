@@ -3,12 +3,12 @@
 
 //include("conexaoo.php");
 
-$dbhost = ((isset($dbhost)) ? $dbhost : "");
-$dbport = ((isset($dbport)) ? $dbport : "3306");
-$dbuser = ((isset($dbuser)) ? $dbuser : "");
+$dbhost = ((isset($dbhost)) ? $dbhost : "127.0.0.1");
+$dbport = ((isset($dbport)) ? $dbport : "");
+$dbuser = ((isset($dbuser)) ? $dbuser : "root");
 $dbpass = ((isset($dbpass)) ? $dbpass : "");
-$dbbase = ((isset($dbbase)) ? $dbbase : ""); /* name of the database (required) */
-$dbdier = ((isset($dbdier)) ? $dbdier : false); /* script dies in case of db returns error */
+$dbbase = ((isset($dbbase)) ? $dbbase : "evento"); /* name of the database (required) */
+$dbdier = ((isset($dbdier)) ? $dbdier : true); /* script dies in case of db returns error */
 
 /* Basic usage */
 /*
