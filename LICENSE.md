@@ -1,15 +1,15 @@
-Licença Acadêmica Não-Comercial
+Non-Commercial Academic License
 
-Condições de Uso:
+Terms of use:
 
-Esta licença aplica-se somente a fins acadêmicos e educacionais. O uso do código para fins comerciais é estritamente proibido.
+This license is for academic and educational purposes only. Use of the code for commercial purposes is prohibited.
 
-Ao utilizar este código, você concorda em usá-lo apenas para fins educacionais e não pode vender, comercializar ou utilizar o código para obter lucro direto.
+By using this code, you agree to use it for educational purposes only and may not sell, trade or use the code for direct profit.
 
-Você pode modificar o código para atender às suas necessidades acadêmicas, mas deve manter esta licença intacta e atribuir a autoria original ao autor.
+You may modify the code to suit your academic needs, but you must keep this license intact and attribute original authorship to the author.
 
-O autor não assume qualquer responsabilidade pelo uso indevido ou consequências do uso deste código.
+The author assumes no responsibility for the misuse or consequences of using this code.
 
-Esta licença pode ser alterada pelo autor a qualquer momento. Verifique sempre a versão mais recente da licença.
+This license can be changed by the author at any time. Always check the latest license version.
 
-© Maíra Graziela dos Santos - Todos os direitos reservados.
+Copyright (c) 2023 Maira Graziela dos Santos - All rights reserved.
