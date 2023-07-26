@@ -7,7 +7,7 @@ O Love-Eventos é um aplicativo que exibi os eventos disponiveis na região, eve
 
 *Uso da aplicação* <br>
 ---
-Você pode clonar o projeto e usar npm install para as dependencias. Você deve configurar a conexão do banco de dados e criar o banco de dados.
+Você pode clonar o projeto e usar npm install para as dependencias. Você deve configurar a conexão do banco de dados e criar o banco de dados. Você deve verificar o caminho da solicitação http ou https que o axios vai fazer.
 
 *Aplicativo* <br>
 ---
