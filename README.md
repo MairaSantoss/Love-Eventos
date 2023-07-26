@@ -7,7 +7,7 @@ O Love-Eventos é um aplicativo que exibi os eventos disponiveis na região, eve
 
 *Uso da aplicação* <br>
 ---
-Você pode clonar o projeto e usar npm install para as dependencias. Você deve configurar a conexão do banco de dados e criar o banco de dados. Você deve verificar o caminho da solicitação http ou https que o axios vai fazer.
+Você pode clonar o projeto e usar npm install para as dependencias. Você deve configurar a conexão do banco de dados e criar o banco de dados. Você deve verificar o caminho da solicitação http ou https que o axios (chamada api) vai fazer.
 
 *Aplicativo* <br>
 ---
@@ -16,3 +16,8 @@ Você pode clonar o projeto e usar npm install para as dependencias. Você deve 
 
  <sub> Cadastro participante </sub> <br> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/fb1c1445-a389-47c6-8ab6-9d8377ca820d" width=180 > |<sub> Cadastro comercial </sub> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/a719cc77-ec8a-4b01-9d2e-4ac63c360b76" width=180 >| <sub> Perfil </sub>  <br> <br>   <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/545111ef-f1c7-437a-9814-00cefcb1d802" width=180 >| <sub> Meus eventos</sub> <br>  <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/02daa1b7-a577-4135-8fbf-fd815529ca3a" width=180 > |<sub> Cancelar evento </sub>   <br>   <br>  <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/c75686a8-04e5-4009-91f5-a0122dd78500" width=180 > 
 | :---: | :---: | :---: | :---: | :---: | 
+
+*Créditos* <br>
+---
+Kaique Lima - UI/UX Design 
+kaiquebrsilva@gmail.com
