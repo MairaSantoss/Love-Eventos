@@ -1,4 +1,4 @@
-# Love-Eventos
+# Love Eventos
 Todos os eventos em um só lugar 🎉
 
 *Descrição* <br>
