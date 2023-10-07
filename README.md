@@ -18,15 +18,10 @@ Você pode clonar o projeto e usar npm install para as dependencias. Você deve 
 | :---: | :---: | :---: | :---: | :---: | 
 
 
- <sub> Cadastro participante </sub> <br> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/99974268-13f7-407f-aca4-56560be1353f" width=180 > |<sub> Cadastro comercial </sub> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/a719cc77-ec8a-4b01-9d2e-4ac63c360b76" width=180 >| <sub> Perfil </sub>  <br> <br>   <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/545111ef-f1c7-437a-9814-00cefcb1d802" width=180 >| <sub> Meus eventos</sub> <br>  <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/02daa1b7-a577-4135-8fbf-fd815529ca3a" width=180 > |<sub> Cancelar evento </sub>   <br>   <br>  <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/c75686a8-04e5-4009-91f5-a0122dd78500" width=180 > 
-| :---: | :---: | :---: | :---: | :---: | 
+ <sub> Cadastro participante </sub> <br> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/99974268-13f7-407f-aca4-56560be1353f" width=60 > |<sub> Cadastro comercial </sub> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/a719cc77-ec8a-4b01-9d2e-4ac63c360b76" width=180 >| <sub> Perfil </sub>  <br> <br>   <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/545111ef-f1c7-437a-9814-00cefcb1d802" width=180 >
+| :---: | :---: | :---: | 
 
-
-<img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/99974268-13f7-407f-aca4-56560be1353f" width=180 > 
-
-    
-       
-
+ 
 *Créditos* <br>
 ---
 UI/UX Design 
