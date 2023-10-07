@@ -18,7 +18,7 @@ Você pode clonar o projeto e usar npm install para as dependencias. Você deve 
 | :---: | :---: | :---: | :---: | :---: | 
 
 
- <sub> Cadastro participante </sub> <br> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/99974268-13f7-407f-aca4-56560be1353f" width=60 > |<sub> Cadastro comercial </sub> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/ca717fd5-d99c-45e6-b898-1e9f222f94ac" width=180 >| <sub> Perfil </sub>  <br> <br>   <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/a993a858-6b33-436e-bbe4-0583aea42ea5" width=180 >
+ <sub>  </sub> <br> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/99974268-13f7-407f-aca4-56560be1353f" width=10 > |<sub> </sub> <br> <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/ca717fd5-d99c-45e6-b898-1e9f222f94ac" width=10 >| <sub> </sub>  <br> <br>   <img src="https://github.com/MairaSantoss/Love-Eventos/assets/89280923/a993a858-6b33-436e-bbe4-0583aea42ea5" width=10 >
 | :---: | :---: | :---: | 
 
  
